@@ -1,0 +1,8 @@
+# is used to add comments to a .gitignore file
+
+#Ignore Tests Folder
+Tests
+
+# Ignore all text files
+*.txt
+
